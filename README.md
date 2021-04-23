@@ -1,2 +1,2 @@
 # maxCoin
-MaxCoin- The only cryptocurrency you'll ever need
+The only cryptocurrency you'll ever need
